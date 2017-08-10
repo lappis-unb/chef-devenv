@@ -1,0 +1,3 @@
+lappis-1:
+  run_list:
+    - role[devenv]
